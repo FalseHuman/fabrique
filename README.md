@@ -26,7 +26,6 @@
 ## Как запустить
 ### Первоначальная установка 
 ```
-cd core
 pip install -r requirements.txt
 python manage.py migrate
 python manage.py createsuperuser
